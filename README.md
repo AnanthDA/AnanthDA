@@ -9,7 +9,7 @@
 - Completed Data Science and Data Analytics program at IIIT Bangalore with an impressive CGPA of 9.45, gaining valuable experience and knowledge in the field from industry experts.
 
 💼 **Current Role:**
-- Former Data Analyst Intern at Bosch, Bangalore, where I worked on multi-variant econometric analysis of vehicles using data from the CMIE Economic Outlook Website of India.
+- Former Data Analyst Intern at Bosch India, Bangalore, where I worked on multi-variant econometric analysis of vehicles using data from the CMIE Economic Outlook Website of India.
 
 💻 **Certifications:**
 - Proficient in Python, MySQL, R-Programming, and Power BI, certified by NIIT, with a focus on data visualization and analysis.
